@@ -1,0 +1,82 @@
+﻿
+<section id="contact" class="s-contact target-section">
+    
+    <div style="
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:url('https://i.hizliresim.com/sykw935.jpg') no-repeat center center;
+background-size:cover;">
+    </div>
+
+
+    <div class="overlay"></div>
+
+    <div class="row narrow section-intro">
+        <div class="col-full">
+            <h3>İletişim</h3>
+            <h1>Bana Ulaşın</h1>
+
+            <p class="lead">Rahatsızlık veren durumlar ve hatalarla karşılaşmamak için yapılan çalışmalar, ortaya çıkabilecek sorunları önlemek amacıyla gerçekleştirilir. Bu süreçte oluşabilecek zorluklar göz önünde bulundurularak gerekli önlemler alınır ve sistemin sağlıklı bir şekilde çalışması hedeflenir.</p>
+        </div>
+    </div>
+
+    <div class="row contact__main">
+        <div class="col-eight tab-full contact__form">
+            
+
+                <form action="/Message/SendMessage" method="post">
+                    <div class="form-field">
+                        <input name="NameSurname" type="text" placeholder="Name" required class="full-width">
+                    </div>
+                    <div class="form-field">
+                        <input name="Email" type="email" placeholder="Email" required class="full-width">
+                    </div>
+                    <div class="form-field">
+                        <input name="Subject" type="text" placeholder="Subject" class="full-width">
+                    </div>
+                    <div class="form-field">
+                        <textarea name="MessageDetail" placeholder="message" rows="10" required class="full-width"></textarea>
+                    </div>
+                    <button type="submit" class="full-width btn--primary">SUBMIT</button>
+                </form>
+           
+
+            <!-- contact-warning -->
+            <div class="message-warning">
+                Something went wrong. Please try again.
+            </div>
+
+            <!-- contact-success -->
+            <div class="message-success">
+                Your message was sent, thank you!<br>
+            </div>
+
+        </div>
+        <div class="col-four tab-full contact__infos">
+            <h4 class="h06">Phone</h4>
+            <p>
+                Phone: (+63) 555 555<br>
+                Mobile: (+63) 555 555<br>
+                Fax: (+63) 555 555
+            </p>
+
+            <h4 class="h06">Mail</h4>
+            <p>
+                someone@holawebsite.com<br>
+                info@holawebsite.com
+            </p>
+
+            <h4 class="h06">Adres</h4>
+            <p>
+                1600 Amphitheatre Parkway<br>
+                Mountain View, CA<br>
+                94043 US
+            </p>
+        </div>
+
+    </div>
+
+</section>
