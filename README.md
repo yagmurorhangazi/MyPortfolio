@@ -10,7 +10,7 @@ bir ekosistemdir.
 💻 Backend: #ASP.NET Core 8.0/9.0 (MVC)
 🎨 Arayüz: #Tailwind CSS, #Bootstrap 5, #Stitch AI, #Claude AI
 💾 Veritabanı: #MSSQL Server & #Entity Framework Core
-⚡ Frontend: #AJAX, #jQuery, #SweetAlert2
+⚡FRONTEND: #HTML5, #CSS, #Modern JavaScript , #Tailwind CSS
 🏗️ Mimari: #N-Tier Architecture & #Repository Pattern
 
 ⚙️ PROJENİN TEKNİK VE FONKSİYONEL DERİNLİĞİ
