@@ -1,10 +1,11 @@
+
 🚀 DİNAMİK YÖNETİM PANELLİ PORTFOLYO SİSTEMİ | 
+
 M&Y Yazılım Eğitim Akademi çatısı altında, Sayın Murat Yücedağ’ın değerli müfredatını birer "case study" olarak ele 
 alarak geliştirdiğim bu proje; backend disiplini ile modern tasarım estetiğini birleştiren, tam dinamik ve "yaşayan"
 bir ekosistemdir.
 
 🛠️ KULLANILAN TEKNOLOJİLER
-(Bu bölüm, projenin teknik yetkinliğini gösteren kısımdır. Beyza Hanım'ın stilindeki gibi # etiketlerini kullandık.)
 
 💻 Backend: #ASP.NET Core 8.0/9.0 (MVC)
 🎨 Arayüz: #Tailwind CSS, #Bootstrap 5, #Stitch AI, #Claude AI
@@ -13,7 +14,7 @@ bir ekosistemdir.
 🏗️ Mimari: #N-Tier Architecture & #Repository Pattern
 
 ⚙️ PROJENİN TEKNİK VE FONKSİYONEL DERİNLİĞİ
-(Projenin nasıl çalıştığını adım adım açıklayan bölümdür.)
+
 
 📸 ADMİN PANELİ VE İÇERİK YÖNETİMİ
 🔍 TAM KONTROL: Deneyimlerden sertifikalara kadar her alan admin paneli üzerinden anlık yönetilebilir.
@@ -24,14 +25,14 @@ bir ekosistemdir.
 🔍 INBOX SİSTEMİ: Gelen mesajlar admin paneline anlık düşer ve kurumsal bir inbox mantığıyla yönetilir.
 
 🚀 GELİŞİM YOLCULUĞU VE VİZYON
-(Öğrenme sürecini ve vizyonunu anlatan teknik bloktur.)
+
 
 🔍 TEKNİK OLGUNLUK: .NET 9.0 sürümüne geçiş sürecinde karşılaşılan her teknik engel bir öğrenme tecrübesine dönüştürülmüştür.
 🔍 AI VE TASARIM UYUMU: AI araçlarının desteğiyle minimalist, modern ve tam responsive bir kullanıcı arayüzü inşa edilmiştir.
 
 🤝 İLETİŞİM
-📩 LinkedIn: [Profil Linkini Buraya Ekle]
-📧 E-Posta: [E-posta Adresini Buraya Ekle]
+📩 LinkedIn: https://www.linkedin.com/in/ya%C4%9Fmur-orhankazi-609593335/
+📧 E-Posta: ezgiyagmurorhangazi@gmail.com
 
 
 
