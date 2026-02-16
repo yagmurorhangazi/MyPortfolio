@@ -1,5 +1,5 @@
 
-🚀 DİNAMİK YÖNETİM PANELLİ PORTFOLYO SİSTEMİ | 
+🚀 DİNAMİK YÖNETİM PANELLİ PORTFOLYO SİSTEMİ 
 
 M&Y Yazılım Eğitim Akademi çatısı altında, Sayın Murat Yücedağ’ın değerli müfredatını birer "case study" olarak ele 
 alarak geliştirdiğim bu proje; backend disiplini ile modern tasarım estetiğini birleştiren, tam dinamik ve "yaşayan"
@@ -32,6 +32,7 @@ bir ekosistemdir.
 
 🤝 İLETİŞİM
 📩 LinkedIn: https://www.linkedin.com/in/ya%C4%9Fmur-orhankazi-609593335/
+
 📧 E-Posta: ezgiyagmurorhangazi@gmail.com
 
 
@@ -48,5 +49,4 @@ bir ekosistemdir.
 <img width="626" height="357" alt="Screenshot_13" src="https://github.com/user-attachments/assets/0162f9f9-759f-4d87-be6a-344a21a1813a" />
 <img width="1918" height="911" alt="Screenshot_14" src="https://github.com/user-attachments/assets/8f67167c-1f1b-4507-a029-1e24a1fe6482" />
 <img width="1919" height="904" alt="Screenshot_15" src="https://github.com/user-attachments/assets/5cef73c0-ab44-4a5f-a2fc-b5370629aff0" />
-
 <img width="1917" height="907" alt="Screenshot_16" src="https://github.com/user-attachments/assets/c3035778-8b9e-4f67-80c8-4f22c2d0cdfd" />
